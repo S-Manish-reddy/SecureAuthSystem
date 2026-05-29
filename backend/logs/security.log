@@ -1,0 +1,21 @@
+2026-05-29 14:37:25,517 - INFO - New user registered: chinna@gmail.com
+2026-05-29 14:38:00,439 - WARNING - Invalid password attempt for: chinna@gmail.com
+2026-05-29 14:38:12,835 - INFO - Successful login: chinna@gmail.com
+2026-05-29 15:22:07,778 - INFO - New user registered: chotu@example.com
+2026-05-29 15:22:36,119 - INFO - Successful login: chotu@example.com
+2026-05-29 15:24:21,041 - INFO - User logged out: chotu@example.com
+2026-05-29 16:42:34,831 - WARNING - Failed login attempt for email: chotu@example.com
+2026-05-29 16:43:40,814 - INFO - New user registered: chotu@example.com
+2026-05-29 16:44:00,139 - INFO - Successful login: chotu@example.com
+2026-05-29 18:07:39,663 - WARNING - Failed login attempt for email: manish@gmail.com
+2026-05-29 18:08:20,528 - INFO - New user registered: chitu@gmail.com
+2026-05-29 18:08:35,280 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:18:07,439 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:19:14,351 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:30:20,444 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:39:46,679 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:40:57,611 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:42:09,511 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:42:50,921 - INFO - Successful login: chitu@gmail.com
+2026-05-29 18:44:25,210 - INFO - New user registered: ammulya@gmail.com
+2026-05-29 18:44:41,609 - INFO - Successful login: ammulya@gmail.com
